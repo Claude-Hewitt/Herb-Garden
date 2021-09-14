@@ -1,4 +1,4 @@
-# Project Name
+# Herb Garden
 
 ## Project Requirements
 
@@ -18,4 +18,4 @@ Do you want to contribute to this project? Please read <a href="CONTRIBUTING.md"
 
 
 ## Authors
-
+Arille Aberdeen, Noel ,Claude Hewitt
